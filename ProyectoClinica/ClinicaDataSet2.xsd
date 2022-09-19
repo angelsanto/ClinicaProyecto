@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ClinicaDataSet2" targetNamespace="http://tempuri.org/ClinicaDataSet2.xsd" xmlns:mstns="http://tempuri.org/ClinicaDataSet2.xsd" xmlns="http://tempuri.org/ClinicaDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Conexion" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Conexion (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ProyectoClinica.My.MySettings.GlobalReference.Default.Conexion" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_MOSTRAR_HORARIOSTableAdapter" GeneratorDataComponentClassName="V_MOSTRAR_HORARIOSTableAdapter" Name="V_MOSTRAR_HORARIOS" UserDataComponentName="V_MOSTRAR_HORARIOSTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Conexion (MySettings)" DbObjectName="Clinica.dbo.V_MOSTRAR_HORARIOS" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MEDICO, Dia, HORARIO, [LIMITE DE CUPOS] FROM dbo.V_MOSTRAR_HORARIOS</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MEDICO" DataSetColumn="MEDICO" />
+              <Mapping SourceColumn="Dia" DataSetColumn="Dia" />
+              <Mapping SourceColumn="HORARIO" DataSetColumn="HORARIO" />
+              <Mapping SourceColumn="LIMITE DE CUPOS" DataSetColumn="LIMITE DE CUPOS" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ClinicaDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ClinicaDataSet2" msprop:Generator_UserDSName="ClinicaDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_MOSTRAR_HORARIOS" msprop:Generator_TableClassName="V_MOSTRAR_HORARIOSDataTable" msprop:Generator_TableVarName="tableV_MOSTRAR_HORARIOS" msprop:Generator_TablePropName="V_MOSTRAR_HORARIOS" msprop:Generator_RowDeletingName="V_MOSTRAR_HORARIOSRowDeleting" msprop:Generator_RowChangingName="V_MOSTRAR_HORARIOSRowChanging" msprop:Generator_RowEvHandlerName="V_MOSTRAR_HORARIOSRowChangeEventHandler" msprop:Generator_RowDeletedName="V_MOSTRAR_HORARIOSRowDeleted" msprop:Generator_UserTableName="V_MOSTRAR_HORARIOS" msprop:Generator_RowChangedName="V_MOSTRAR_HORARIOSRowChanged" msprop:Generator_RowEvArgName="V_MOSTRAR_HORARIOSRowChangeEvent" msprop:Generator_RowClassName="V_MOSTRAR_HORARIOSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MEDICO" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnMEDICO" msprop:Generator_ColumnPropNameInRow="MEDICO" msprop:Generator_ColumnPropNameInTable="MEDICOColumn" msprop:Generator_UserColumnName="MEDICO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="32" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Dia" msprop:Generator_ColumnVarNameInTable="columnDia" msprop:Generator_ColumnPropNameInRow="Dia" msprop:Generator_ColumnPropNameInTable="DiaColumn" msprop:Generator_UserColumnName="Dia" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HORARIO" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnHORARIO" msprop:Generator_ColumnPropNameInRow="HORARIO" msprop:Generator_ColumnPropNameInTable="HORARIOColumn" msprop:Generator_UserColumnName="HORARIO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="13" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LIMITE_x0020_DE_x0020_CUPOS" msprop:Generator_ColumnVarNameInTable="columnLIMITE_DE_CUPOS" msprop:Generator_ColumnPropNameInRow="LIMITE_DE_CUPOS" msprop:Generator_ColumnPropNameInTable="LIMITE_DE_CUPOSColumn" msprop:Generator_UserColumnName="LIMITE DE CUPOS" type="xs:unsignedByte" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

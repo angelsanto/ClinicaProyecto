@@ -1,0 +1,242 @@
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.pdb
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.xml
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.vbprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.vbproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.exe
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.xml
+c:\users\angel\documents\visual studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.pdb
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.MOSRAR_DIAS_MEDICOS.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.MENU.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Pacientes.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Especialidad.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.MEDICOS.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CITAS.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\stdole.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ReporteCitas.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.REPORTESC.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ReportesporFecha.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.REPORTESF.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.LIMITECUPOS.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.exe.licenses
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ReporteMedico.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ReporteM.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ProyectoClinica.exe.config
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.exe
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.pdb
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ProyectoClinica.exe
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ProyectoClinica.pdb
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ProyectoClinica.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\stdole.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.vbprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.CITAS.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.ESPECIALIDAD.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.LIMITECUPOS.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.MEDICOS.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.MOSRAR_DIAS_MEDICOS.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.MENU.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.Resources.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.Pacientes.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.ReporteMedico.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.REPORTESC.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.REPORTESF.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.ReporteCitas.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.ReporteM.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.ReportesporFecha.resources
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.vbproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\UCENM\PROYECTOLABORATORIOBD\ProyectoClinicaFinal\ProyectoClinica\obj\Debug\ProyectoClinica.exe.licenses
